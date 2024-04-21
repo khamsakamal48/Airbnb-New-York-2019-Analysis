@@ -26,28 +26,28 @@ The outcome of your data analysis will be a data analysis report presentation. T
 ## Conclusion (Takeaways)
 ### 1. Neighbourhoods & Room Types
 #### Focus on Manhattan and Brooklyn
-These areas have the highest concentration of listings, bookings, and reviews, indicating higher demand. Tailor marketing strategies to these areas.
+- These areas have the highest concentration of listings, bookings, and reviews, indicating higher demand. Tailor marketing strategies to these areas.
 
 #### Diversify offerings in Queens and Bronx
-Consider campaigns to incentivize entire home/apartment listings in these boroughs to cater to longer stays. 
+- Consider campaigns to incentivize entire home/apartment listings in these boroughs to cater to longer stays. 
 
 ### 2. Price & Availability
 #### Highlight competitive pricing in outer boroughs
-Advertise cost-effective options in Queens and Bronx for budget-conscious travelers, especially for longer stays (>1 month) where availability is higher.
+- Advertise cost-effective options in Queens and Bronx for budget-conscious travelers, especially for longer stays (>1 month) where availability is higher.
 
 #### Offer flexible minimum stay options
-Consider allowing shorter stays (less than a week) in Manhattan and Brooklyn, especially for entire home/apartments to cater to weekend getaways.
+- Consider allowing shorter stays (less than a week) in Manhattan and Brooklyn, especially for entire home/apartments to cater to weekend getaways.
 
 ### 3. Understanding User Preferences
 #### Analyze review sentiment
-Additional need to analyse reviews to understand guest satisfaction across neighborhoods and room types. This can help identify areas for improvement for hosts.
+- Additional need to analyse reviews to understand guest satisfaction across neighborhoods and room types. This can help identify areas for improvement for hosts.
 
 #### Investigate minimum night requirements
-Further research is needed to understand why Manhattan and Brooklyn have a higher minimum night stay requirement, particularly for entire home/apartments. This could be due to factors like higher demand or regulations.
+- Further research is needed to understand why Manhattan and Brooklyn have a higher minimum night stay requirement, particularly for entire home/apartments. This could be due to factors like higher demand or regulations.
 
 ### 4. Post-Pandemic Considerations
 #### Target remote workers and extended stays
-The pandemic has normalized remote work. Promote listings suitable for longer stays with amenities for remote work like dedicated workspace and reliable internet.
+- The pandemic has normalized remote work. Promote listings suitable for longer stays with amenities for remote work like dedicated workspace and reliable internet.
 
 #### Highlight safety measures
-Post-pandemic, travelers might prioritize hygiene and safety. Promote listings with enhanced cleaning protocols and clear communication regarding these measures.
+- Post-pandemic, travelers might prioritize hygiene and safety. Promote listings with enhanced cleaning protocols and clear communication regarding these measures.

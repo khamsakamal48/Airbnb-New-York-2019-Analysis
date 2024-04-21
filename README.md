@@ -24,12 +24,12 @@ The outcome of your data analysis will be a data analysis report presentation. T
 [Airbnb New York Data (2019) Analysis by Kamal](https://public.tableau.com/views/AirbnbDataAnalysis_17132794271210/NeighbourhoodConcentration?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Conclusion (Takeaways)
-1. Neighbourhoods & Room Types
-   - Focus on Manhattan and Brooklyn
-     These areas have the highest concentration of listings, bookings, and reviews, indicating higher demand. Tailor marketing strategies to these areas.
+### Neighbourhoods & Room Types
+1. Focus on Manhattan and Brooklyn
+   These areas have the highest concentration of listings, bookings, and reviews, indicating higher demand. Tailor marketing strategies to these areas.
 
-   - Diversify offerings in Queens and Bronx
-     Consider campaigns to incentivize entire home/apartment listings in these boroughs to cater to longer stays. 
-3. Price & Availability
-4. Understanding User Preferences
-5. Post-Pandemic Considerations
+2. Diversify offerings in Queens and Bronx
+   Consider campaigns to incentivize entire home/apartment listings in these boroughs to cater to longer stays. 
+4. Price & Availability
+5. Understanding User Preferences
+6. Post-Pandemic Considerations

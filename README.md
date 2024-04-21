@@ -11,7 +11,12 @@ The primary audience for the analysis is the executive team at Airbnb. This incl
 ## End Product
 The outcome of your data analysis will be a data analysis report presentation. This report will include visualisations, key insights, and actionable recommendations for the executive team to consider in their post-lockdown revival strategy.
  
-Data:
+**Data:**
 - New York Airbnb’s Dataset
-  
+- Column Types
 ![column_types](airlock-on-edge.woolf.png)
+- Variable Types
+![variable_types](airlock-on-edge.woolf.university.png)
+
+## Tableau Viz
+[Airbnb New York Data (2019) Analysis by Kamal](https://public.tableau.com/views/AirbnbDataAnalysis_17132794271210/NeighbourhoodConcentration?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)

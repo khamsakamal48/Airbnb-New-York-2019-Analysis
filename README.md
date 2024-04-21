@@ -25,10 +25,10 @@ The outcome of your data analysis will be a data analysis report presentation. T
 
 ## Conclusion (Takeaways)
 ### 1. Neighbourhoods & Room Types
-#### a. Focus on Manhattan and Brooklyn
+#### Focus on Manhattan and Brooklyn
 These areas have the highest concentration of listings, bookings, and reviews, indicating higher demand. Tailor marketing strategies to these areas.
 
-#### b. Diversify offerings in Queens and Bronx
+#### Diversify offerings in Queens and Bronx
 Consider campaigns to incentivize entire home/apartment listings in these boroughs to cater to longer stays. 
 
 ### 2. Price & Availability

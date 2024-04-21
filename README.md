@@ -14,8 +14,10 @@ The outcome of your data analysis will be a data analysis report presentation. T
 **Data:**
 - New York Airbnb’s Dataset
 - Column Types
+  
 ![column_types](airlock-on-edge.woolf.png)
 - Variable Types
+  
 ![variable_types](airlock-on-edge.woolf.university.png)
 
 ## Tableau Viz

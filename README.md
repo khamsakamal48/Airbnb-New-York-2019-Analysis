@@ -13,3 +13,4 @@ The outcome of your data analysis will be a data analysis report presentation. T
  
 Data:
 - New York Airbnb’s Dataset
+[IMG]airlock-on-edge.woolf.png[/IMG]
